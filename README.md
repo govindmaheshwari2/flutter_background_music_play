@@ -1,6 +1,8 @@
 # background_music
 
-A new Flutter application.
+Flutter Background Music Player using Audio Service and Just Play Plugin
+
+- [Youtube Tutorial](https://www.youtube.com/watch?v=MW_QAdzuoW0)
 
 ## Getting Started
 
